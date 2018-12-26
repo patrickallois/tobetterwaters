@@ -95,7 +95,7 @@ h2 ~ p {
 .header {
   background-color: #171717;
   border-bottom: thin solid #4F790B;
-  height: 200px;
+  height: 205px;
   margin: 0;
   padding: 0;
   position: fixed;
@@ -110,48 +110,70 @@ h2 ~ p {
   width: 301px;
 }
 .header-nav {
-  padding: 25px;
+  padding: 20px 0px 13px 0px;
 }
 .header-nav > li {
   display: inline-block;
-  margin-left: 1em;
+  margin: 0.6em;
   margin-bottom: 0;
 }
 
 /* HERO */
 .hero {
   display: inline-block;
-  height: 580px;
+  height: vh;
   margin: 200px 0px;
-  padding-top: 60px;
+  padding-top: 70px;
 }
 .album-release {
+  display: flex;
+  border-bottom: thin solid #171717;
   float: center;
-  margin: 50px 0px 0px 0px;
-  padding: 50px 0px 0px 0px;
+  margin: 10px auto;
+  padding: 40px auto;
+}
+.album-release > div {
+
+}
+.album-cover {
+  /* border: thin solid #fff; */
+  padding: 0px 10px;
 }
 .album-cover img {
   display: block;
-  margin: 10px auto;
-  width: 225px;
+  float: center;
+  margin: 28px 30px;
+  padding: 60px 60px;
+  width: 236px;
+}
+.album-info {
+  display: inline-block;
+  /* border: thin solid #fff; */
+  padding: 25px 60px;
+
 }
 .band-name img {
   display: block;
-  margin: 10px auto;
+  float: left;
+  margin: 20px auto;
   width: 300px;
 }
 .available-now img {
+  /* border: thin solid #fff; */
   display: block;
-  margin: 10px auto;
-  width: 400px;
+  margin: 10px auto 5px;
+  padding: 5px;
+  width: 460px;
 }
 .buy-now-button {
+  border: thin solid #fff;
   display: inline-block;
+  float: left;
   background-color: #fff5d8;
   font-size: 1.1em;
   font-style: italic;
-  margin: 10px;
-  padding: 15px 20px;
+  margin: 15px 0px;
+  padding: 10px 20px;
   text-color: #000;
   text-transform: uppercase;
   width: 100px;
@@ -162,8 +184,8 @@ h2 ~ p {
   display: inline;
 }
 .social-media-links img {
-  margin-left: 0.5em;
-  width: 15px;
+  margin: 0.2em;
+  width: 16px;
 }
 
 /* STREAMING LINKS */
