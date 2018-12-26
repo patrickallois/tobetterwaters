@@ -48,7 +48,6 @@ a img {
 
 /* GLOBAL STYLES */
 html {
-
 }
 body {
   background-color: #000;
@@ -95,16 +94,15 @@ h2 ~ p {
 /* HEADER */
 .header {
   background-color: #171717;
+  border-bottom: thin solid #4F790B;
   height: 200px;
-  padding: 0;
-  border: 0;
   margin: 0;
+  padding: 0;
   position: fixed;
   width: 100%;
   z-index: 20;
 }
 .header-logo {
-  background-color: #171717;
   display: block;
   padding-top: 44px;
 }
@@ -115,7 +113,6 @@ h2 ~ p {
   padding: 25px;
 }
 .header-nav > li {
-  float: center;
   display: inline-block;
   margin-left: 1em;
   margin-bottom: 0;
@@ -125,25 +122,31 @@ h2 ~ p {
 .hero {
   display: inline-block;
   height: 580px;
-  padding-top: 250px;
+  margin: 200px 0px;
+  padding-top: 60px;
 }
-.album-release-ad {
+.album-release {
   float: center;
   margin: 50px 0px 0px 0px;
   padding: 50px 0px 0px 0px;
 }
 .album-cover img {
+  display: block;
+  margin: 10px auto;
   width: 225px;
 }
 .band-name img {
-  margin: 30px;
+  display: block;
+  margin: 10px auto;
   width: 300px;
 }
 .available-now img {
-  margin: 30px;
+  display: block;
+  margin: 10px auto;
   width: 400px;
 }
 .buy-now-button {
+  display: inline-block;
   background-color: #fff5d8;
   font-size: 1.1em;
   font-style: italic;
@@ -153,18 +156,29 @@ h2 ~ p {
   text-transform: uppercase;
   width: 100px;
 }
+
+/* SOCIAL MEDIA LINKS */
 .social-media-links {
   display: inline;
 }
 .social-media-links img {
+  margin-left: 0.5em;
   width: 15px;
 }
 
 /* STREAMING LINKS */
 .streaming-site-links {
-  margin: 25px 0px;
+  border-top: thin solid #4F790B;
+  margin: 25px 0px 0px 0px;
   padding: 25px 0px;
 }
+.streaming-site-links img {
+  /* border: thin solid #fff; */
+  display: block;
+  margin: 15px auto;
+  width: 150px;
+}
+
 /* SHOW CALENDAR */
 
 /* MAILING LIST SIGNUP FORM */
