@@ -192,9 +192,16 @@ p {
 /* BAND PHOTO */
 .band-photo {
   diplay: block;
-  float: center;
+  margin: 0px auto;
+  overflow: hidden;
+  /* float: center; */
 }
 .band-photo img {
+  background-color: #000;
+  display: block;
+  margin: -10% 0% -35%;
+  filter: opacity(50%);
+  width: 100%;
 }
 
 /* SHOW CALENDAR */
