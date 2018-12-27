@@ -158,15 +158,21 @@ p {
 }
 .buy-now-button {
   background-color: #fff5d8;
+  color: #000;
   display: inline-block;
   float: left;
   font-size: 1.1em;
   font-style: italic;
   margin: 15px 0px 0px 0px;
   padding: 10px 20px;
-  text-color: #000;
+  /* text-color: #000; */
   text-transform: uppercase;
   width: 100px;
+}
+.buy-now-button:hover {
+  color: #fff5d8;
+  background-color: #000;
+  border: thin solid #fff5d8;
 }
 /* SOCIAL MEDIA LINKS */
 .social-media-links {
