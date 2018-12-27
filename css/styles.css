@@ -48,8 +48,9 @@ a img {
 
 /* GLOBAL STYLES */
 html {
-  font-family: 'Monserrat', arial, sans;
+  font-family: 'Helvetica', arial, sans;
   font-style: italic;
+  text-transform: uppercase;
 }
 body {
   background-color: #000;
@@ -57,51 +58,32 @@ body {
   text-align: center;
 }
 h1,h2,h3,h4,h5,h6 {
-  /* font-family: 'Raleway', helvetica, sans; */
-  /* font-weight: 100; */
+  font-weight: bold;
 }
 h1 {
-  /* font-size: 10vw; */
-  /* margin-top: 0; */
   color: #fff5d8;
-  font-size: 3vw;
-  font-weight: bold;
-  text-transform: uppercase;
+  font-size: 3em;
 }
 h2 {
-  /* font-size: 2em; */
+
 }
 h4 {
-  /* color: #999;
-  font-weight: bold;
-  text-transform: uppercase; */
+
+}
+li {
+  list-style: none;
 }
 a {
   color: #fff5d8;
   font-size: 0.9em;
-  font-style: italic;
   font-weight: bold;
   text-decoration: none;
-  text-transform: uppercase;
 }
 p {
   color: #000;
   font-size: 0.9em;
-  font-style: italic;
   font-weight: bold;
   text-decoration: none;
-  text-transform: uppercase;
-}
-h2 ~ p {
-  /* font-size: 0.8em;
-  font-style: italic;
-  margin: 1em auto 0;
-  max-width: 70%;
-  text-align: center; */
-}
-li {
-  list-style: none;
-  text-transform: uppercase;
 }
 
 /* HEADER */
@@ -123,8 +105,7 @@ li {
   width: 301px;
 }
 .header-nav {
-  /* border: thin solid #fff; */
-  padding: 3px 0px 13px 0px;
+  padding: 19px 0px 13px 0px;
 }
 .header-nav > li {
   display: inline-block;
@@ -132,7 +113,6 @@ li {
   margin-bottom: 0;
 }
 .nav-links {
-  color: #fff5d8;
 }
 
 /* HERO */
@@ -143,17 +123,13 @@ li {
   padding-top: 70px;
 }
 .album-release {
-  display: flex;
   border-bottom: thin solid #171717;
+  display: flex;
   float: center;
   margin: 10px auto;
   padding: 40px auto;
 }
-.album-release > div {
-
-}
 .album-cover {
-  /* border: thin solid #fff; */
   padding: 0px 10px;
 }
 .album-cover img {
@@ -165,7 +141,6 @@ li {
 }
 .album-info {
   display: inline-block;
-  /* border: thin solid #fff; */
   padding: 25px 60px;
 
 }
@@ -176,17 +151,15 @@ li {
   width: 300px;
 }
 .available-now img {
-  /* border: thin solid #fff; */
   display: block;
   margin: 10px auto 5px;
   padding: 5px;
   width: 460px;
 }
 .buy-now-button {
-  /* border: thin solid #fff; */
+  background-color: #fff5d8;
   display: inline-block;
   float: left;
-  background-color: #fff5d8;
   font-size: 1.1em;
   font-style: italic;
   margin: 15px 0px 0px 0px;
@@ -202,7 +175,7 @@ li {
 }
 .social-media-links img {
   margin: 0.2em;
-  width: 16px;
+  width: 1em;
 }
 
 /* STREAMING LINKS */
@@ -212,7 +185,6 @@ li {
   padding: 25px 0px;
 }
 .streaming-site-links img {
-  /* border: thin solid #fff; */
   display: block;
   margin: 15px auto;
   width: 150px;
@@ -227,66 +199,57 @@ li {
 
 /* SHOW CALENDAR */
 .show-calendar {
-  /* border: thin solid #ffffff; */
-  margin: 100px auto;
-  padding: 20px;
   display: inline-block;
+  font-weight: bold;
+  margin: 100px auto;
   min-width: 1000px;
+  padding: 20px;
 }
-.show-calendar .show-dates {
+.show-dates {
+  margin-top: 50px;
 }
-.show-calendar .show-dates .show-date {
-  /* border: thin solid #ffffff; */
+.show-date {
   border-top: thin solid #171717;
   display: block;
-  margin: 50px auto;
-  padding: 50px 20px;
+  margin: 30px auto;
+  padding: 30px 20px;
 }
-.show-calendar .show-dates .show-date > li {
+.show-date > li {
   display: inline;
+  padding: 0px 10px;
 }
 .date {
-  /* border: thin solid #ffffff; */
-  float: left;
   color: #fff;
+  float: left;
+  margin: 0px 25px 0px 0px;
   text-align: left;
-  margin: 0px 10px;
-  padding: 0px 10px;
   width: 100px;
 }
 .location {
-  /* border: thin solid #ffffff; */
-  float: left;
   color: #fff5d8;
+  float: left;
+  margin: 0px 25px 0px 5px;
   text-align: left;
-  margin: 0px 10px;
-  padding: 0px 10px;
   width: 150px;
 }
 .venue {
-  display: block;
-  /* border: thin solid #ffffff; */
-  float: left;
   color: #fff;
+  display: block;
+  float: left;
+  margin: 0px 25px 0px 5px;
   text-align: left;
-  margin: 0px 10px;
-  padding: 0px 10px;
   width: 300px;
 }
 .event {
-  /* border: thin solid #ffffff; */
-  /* display: flex; */
-  font-size: 0.7em;
   color: #fff;
+  font-size: 0.7em;
+  margin: 0px 25px 0px 5px;
   text-align: left;
-  margin: 0px 10px;
-  padding: 0px 10px;
   width: 200px;
 }
 .time-slot {
-  /* border: thin solid #ffffff; */
-  float: right;
   color: #fff;
+  float: right;
   width: 150px;
 }
 .rescheduled {
@@ -297,18 +260,20 @@ li {
 .booking-contact {
   border-top: thin solid #171717;
   border-bottom: thin solid #171717;
-  padding: 50px;
+  margin-top: 20px;
+  padding: 20px;
 }
 .booking-contact .booking {
-  display: block;
   color: #fff;
-  font-size: 1em;
+  display: block;
+  font-size: 1.2em;
+  font-weight: bold;
   padding: 10px 0px;
 }
 
 /* BITEY */
 .bitey {
-  margin: 300px auto 20px;
+  margin: 200px auto 20px;
 }
 .bitey img {
   display: block;
@@ -323,17 +288,21 @@ li {
 
 /* FOOTER */
 .footer {
-  font-size: 10px;
   background-color: #171717;
   border-top: thin solid #4F790B;
-  height: 250px;
-  padding: 100px;
+  font-size: 10px;
+  height: 25px;
+  padding: 100px 450px 80px;
 }
+
 .footer .social-media-links img {
-  width: 10px;
+  display: inline-block;
   float: left;
+  margin: 0.5em;
+  width: 1.2em;
 }
 .copyright {
   color: #fff5d8;
   float: right;
+  font-size: 1.2em;
 }
