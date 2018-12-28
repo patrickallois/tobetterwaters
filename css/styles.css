@@ -295,7 +295,19 @@ p {
 
 /* MAILING LIST SIGNUP FORM */
 .mailing-list-form {
-
+  display: block;
+  margin: 0px auto;
+  overflow: hidden;
+}
+.mailing-list-form .background-image {
+  display: block;
+  background-image: url("../images/form/blurry_02-edited.jpg");
+  background-position: 0px -555px;
+  background-size: cover;
+  overflow: hidden;
+  height: 560px;
+  width: 100%;
+  z-index: -1;
 }
 
 /* FOOTER */
