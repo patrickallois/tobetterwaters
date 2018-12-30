@@ -50,6 +50,7 @@ a img {
 html {
   font-family: 'Helvetica', arial, sans;
   font-style: italic;
+  color: #fff5d8;
   text-transform: uppercase;
 }
 body {
@@ -58,14 +59,15 @@ body {
   text-align: center;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-weight: bold;
+  color: #fff5d8;
 }
 h1 {
-  color: #fff5d8;
   font-size: 3em;
+  font-weight: bold;
 }
 h2 {
-
+  font-size: 1.5em;
+  font-weight: bold;
 }
 h4 {
 
@@ -74,15 +76,14 @@ li {
   list-style: none;
 }
 a {
-  color: #fff5d8;
-  font-size: 0.9em;
   font-weight: bold;
-  text-decoration: none;
 }
 p {
-  color: #000;
+
+}
+a, p {
+  color: #fff5d8;
   font-size: 0.9em;
-  font-weight: bold;
   text-decoration: none;
 }
 
@@ -163,9 +164,9 @@ p {
   float: left;
   font-size: 1.1em;
   font-style: italic;
+  font-weight: lighter;
   margin: 15px 0px 0px 0px;
   padding: 10px 20px;
-  /* text-color: #000; */
   text-transform: uppercase;
   width: 100px;
 }
@@ -308,6 +309,91 @@ p {
   height: 560px;
   width: 100%;
   z-index: -1;
+}
+.mailing-list-form-declaration {
+  border-bottom: thin solid #474747;
+  line-height: 2.6em;
+  margin: 25px auto;
+  padding: 25px 10px;
+  width: 250px;
+}
+.mailing-list-form-required {
+  font-family: sans-serif;
+  font-weight: normal;
+  margin: 30px auto;
+  text-align: left;
+  width: 270px;
+}
+.mailing-list-form-required span {
+  color: red;
+}
+.mailing-list-form-required h3 {
+  font-size: 1em;
+}
+.mailing-list-form-required p {
+  color: #717171;
+  font-weight: bold;
+  margin: 20px 0px 10px;
+}
+.mailing-list-form-required input {
+  font-family: 'Helvetica',arial, sans;
+  font-style: italic;
+  font-weight: lighter;
+  color: #fff5d8;
+  /* text-transform: uppercase; */
+  line-height: 38px;
+  font-size: 1em;
+  padding-left: 10px;
+}
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+.checkbox {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #000;
+  border: thin solid #fff5d8;
+}
+input#email {
+  background-color: #000;
+  border: thin solid #fff5d8;
+  height: 38px;
+  width: 260px;
+}
+input#checkbox {
+  border: thin solid #4F790B;
+  display: inline;
+  color: red;
+  margin: 0px;
+  padding: 0px;
+  font-size: 1em;
+  text-decoration: none;
+}
+.submit-button {
+  background-color: #fff5d8;
+  color: #000;
+  display: inline-block;
+  float: left;
+  font-size: 1.1em;
+  font-style: italic;
+  font-weight: lighter;
+  margin: 15px 0px 0px 0px;
+  padding: 10px 10px;
+  text-transform: uppercase;
+  text-align: center;
+  width: 100px;
+}
+.submit-button:hover {
+  color: #fff5d8;
+  background-color: #000;
+  border: thin solid #fff5d8;
 }
 
 /* FOOTER */
