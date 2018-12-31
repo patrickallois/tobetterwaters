@@ -119,7 +119,7 @@ a, p {
 /* HERO */
 .hero {
   display: inline-block;
-  height: 100vh;
+  height: 50vh;
   margin: 200px 0px;
   padding-top: 70px;
 }
