@@ -15,6 +15,10 @@ summary, time, mark, audio, video {
   font: inherit;
   vertical-align: baseline;
 }
+
+
+
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -52,6 +56,9 @@ a img {
 }
 /* END RESET*/
 
+
+
+
 /* GLOBAL STYLES */
 html {
   font-family: 'Helvetica', arial, sans;
@@ -61,11 +68,9 @@ html {
 }
 body {
   background-color: #000;
-  height: 100vh;
   text-align: center;
 }
 h1,h2,h3,h4,h5,h6 {
-  color: #fff5d8;
 }
 h1 {
   font-size: 3em;
@@ -80,10 +85,10 @@ h4 {
 }
 li {
   list-style: none;
-  text-decoration: none;
 }
 a {
   font-weight: bold;
+  text-decoration: none;
 }
 p {
 
@@ -91,16 +96,16 @@ p {
 a, p {
   color: #fff5d8;
   font-size: 0.9em;
-  text-decoration: none;
 }
+
+
+
 
 /* HEADER */
 .header {
   background-color: #171717;
   border-bottom: thin solid #4F790B;
   height: 205px;
-  margin: 0;
-  padding: 0;
   position: fixed;
   width: 100vw;
   z-index: 20;
@@ -110,10 +115,10 @@ a, p {
   padding-top: 44px;
 }
 .header-logo img {
-  width: 301px;
+  height: 100px;
 }
 .header-nav {
-  padding: 19px 0px 13px 0px;
+  padding: 20px 0px 0px 0px;
 }
 .header-nav > li {
   display: inline-block;
@@ -123,78 +128,80 @@ a, p {
 .nav-links {
 }
 
+
+
+
 /* HERO */
 .hero {
-  display: inline-block;
-  height: 50vh;
-  margin: 200px 0px;
-  /* padding-top: 70px; */
-  padding-top: 70px;
+  border-bottom: thin solid #4F790B;
+  height: 100vh;
+  /* width: 100vw;  */
+  padding-top: 270px;
 }
 .album-release {
   border-bottom: thin solid #171717;
   display: flex;
   float: center;
-  margin: 10px auto;
-  padding: 40px auto;
+  max-width: 1050px;
+  margin: 0px auto;
 }
 .album-cover {
-  border: thin solid #fff;
-  padding: 0px 10px;
+  margin: auto;
+  padding: 100px;
+  width: 50%;
 }
 .album-cover img {
-  border: thin solid #fff;
-  display: block;
-  float: center;
-  margin: 28px 30px;
-  padding: 60px 60px;
-  width: 236px;
+  float: right;
+  width: 260px;
 }
 .album-info {
-  border: thin solid #fff;
-  display: inline-block;
-  padding: 25px 60px;
-}
-.band-name img {
-  border: thin solid #fff;
   display: block;
   float: left;
-  margin: 20px auto;
+  padding: 45px 15px;
+  width: 50%;
+}
+.band-name img {
+  display: block;
+  float: left;
+  clear: left;
+  margin: 10px auto;
   width: 300px;
 }
 .available-now img {
-  border: thin solid #fff;
   display: block;
-  margin: 10px auto 5px;
-  padding: 5px;
-  width: 460px;
+  float: left;
+  clear: left;
+  margin: 10px auto;
+  width: 500px;
 }
 .buy-now-button {
-  border: thin solid #fff;
   background-color: #fff5d8;
   color: #000;
-  display: inline-block;
+  display: block;
   float: left;
+  clear: left;
   font-size: 1.1em;
   font-style: italic;
   font-weight: lighter;
-  margin: 15px 0px 0px 0px;
+  margin: 10px 0px 0px 0px;
   padding: 10px 20px;
   text-transform: uppercase;
-  width: 100px;
+  width: 145px;
 }
 .buy-now-button:hover {
   color: #fff5d8;
   background-color: #000;
   border: thin solid #fff5d8;
 }
+
+
+
+
 /* SOCIAL MEDIA LINKS */
 .social-media-links {
-  border: thin solid #fff;
   display: inline;
 }
 .social-media-links img {
-  border: thin solid #fff;
   margin: 0.2em;
   width: 1em;
 }
@@ -202,9 +209,11 @@ a, p {
   margin: 20px auto;
 }
 
+
+
+
 /* STREAMING LINKS */
 .streaming-site-links {
-  border-top: thin solid #4F790B;
   margin: 25px 0px 0px 0px;
   padding: 25px 0px;
 }
@@ -230,6 +239,9 @@ a, p {
   filter: opacity(50%);
   width: 100%;
 }
+
+
+
 
 /* SHOW CALENDAR */
 .show-calendar {
@@ -290,6 +302,9 @@ a, p {
   color: #ae40a5;
 }
 
+
+
+
 /* BOOKING CONTACT */
 .booking-contact {
   border-top: thin solid #171717;
@@ -305,6 +320,9 @@ a, p {
   padding: 10px 0px;
 }
 
+
+
+
 /* BITEY */
 .bitey {
   margin: 200px auto 20px;
@@ -314,6 +332,9 @@ a, p {
   margin: auto;
   width: 400px;
 }
+
+
+
 
 /* MAILING LIST SIGNUP FORM */
 .mailing-list-form {
@@ -361,7 +382,6 @@ a, p {
   font-style: italic;
   font-weight: lighter;
   color: #fff5d8;
-  /* text-transform: uppercase; */
   line-height: 38px;
   font-size: 1em;
   padding-left: 10px;
@@ -417,6 +437,9 @@ input#checkbox {
   border: thin solid #fff5d8;
 }
 
+
+
+
 /* FOOTER */
 .footer {
   background-color: #171717;
@@ -432,7 +455,6 @@ input#checkbox {
   padding: 20px;
   min-width: 120px;
 }
-
 .footer .social-media-links img {
   margin: 0.2em;
   width: 0.8em;
