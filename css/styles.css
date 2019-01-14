@@ -276,7 +276,7 @@ a, p {
   float: left;
   margin: 0px 25px 0px 5px;
   text-align: left;
-  width: 150px;
+  width: 175px;
 }
 .venue {
   color: #fff;
@@ -296,7 +296,7 @@ a, p {
 .time-slot {
   color: #fff;
   float: right;
-  width: 150px;
+  width: 175px;
 }
 .rescheduled {
   color: #ae40a5;
@@ -357,7 +357,7 @@ a, p {
   line-height: 2.6em;
   margin: 25px auto;
   padding: 25px 10px;
-  width: 250px;
+  width: 300px;
 }
 .mailing-list-form-required {
   font-family: sans-serif;
@@ -406,7 +406,7 @@ input#email {
   background-color: #000;
   border: thin solid #fff5d8;
   height: 38px;
-  width: 260px;
+  width: 270px;
 }
 input#checkbox {
   border: thin solid #4F790B;
