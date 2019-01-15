@@ -386,6 +386,13 @@ a, p {
   font-size: 1em;
   padding-left: 10px;
 }
+.container {
+  display: flex;
+  margin: 5px;
+}
+.container > p {
+  margin: 0px;
+}
 .container input {
   position: absolute;
   opacity: 0;
@@ -394,11 +401,10 @@ a, p {
   width: 0;
 }
 .checkbox {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 25px;
-  width: 25px;
+  float: left;
+  height: 15px;
+  width: 15px;
+  min-width: 15px;
   background-color: #000;
   border: thin solid #fff5d8;
 }
@@ -453,7 +459,7 @@ input#checkbox {
   float: left;
   margin: 0px 0px 0px 120px;
   padding: 20px;
-  min-width: 120px;
+  min-width: 200px;
 }
 .footer .social-media-links img {
   margin: 0.2em;
@@ -465,5 +471,5 @@ input#checkbox {
   font-size: 0.7em;
   margin: 0px 100px 0px 0px;
   padding: 25px;
-  min-width: 150px;
+  min-width: 300px;
 }
