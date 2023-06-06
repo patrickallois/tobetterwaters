@@ -1,0 +1,102 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: italic;
+	background-color: #69CEF4;
+	text-align: center;
+	text-transform: uppercase;
+  padding: 1vh;
+  margin: 1vh;
+}
+
+.header {
+  height: 100vh; /* Set the desired minimum height */
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 10), rgba(0, 0, 0, 0.6)), url('../images/header-background.jpg');
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  opacity: 0.8;
+  transition: opacity 0.5s ease;
+  box-sizing: border-box;
+  padding: 5vh;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 6vh;
+  color: #69CEF4; /* Set the text color */
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 20vh;
+}
+
+.header img.background-image {
+  opacity: 0.5;
+}
+
+.header-image {
+  margin-top: auto;
+  margin-bottom: 5vh;
+  max-width: 5vh;
+  height: auto;
+}
+
+.container {
+  margin-top: 1vh;
+  padding: 1vh;
+  color: #f4f4f4;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+.footer-image {
+  margin-top: 1vh;
+  padding: 1vh;
+  max-width: 10vh;
+  height: auto;
+}
+
+.rights {
+  text-align: center;
+  font-size: 1.5vh;
+  color: #ED4F6C;
+}
+
+h1 {
+  font-size: 5vh;
+  margin-bottom: 1vh;
+}
+
+ul {
+  font-size: 2vh;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+li {
+  margin-bottom: 1vh;
+}
+
+.past-show, .past-year {
+  color: rgba(5, 5, 5, 0.3);
+}
+
+.venue {
+  font-weight: bold;
+}
+
+.notes {
+  font-size: 0.8em;
+}

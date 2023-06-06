@@ -1,0 +1,17 @@
+.social-icons {
+    margin-top: 1vh;
+  }
+  
+  .social-icons a {
+    display: inline-block;
+    margin-right: 1vh;
+    color: #69CEF4;
+    font-size: 3vh;
+    transition: transform 0.3s ease;
+  }
+  
+  .social-icons a:hover {
+    color: #f4f4f4;
+    transform: scale(1.2);
+  }
+  

@@ -1,0 +1,50 @@
+2023-08-20, Belmont, NC, The Bottle Tree, 2:30PM, 5:00PM
+2023-08-19, Charlotte, NC, Petty Thieves Brewing, 7:00PM, 9:30PM
+2023-07-29, Charlotte, NC, 24 Hours of Booty Charity Ride, 10:30AM, 1:00PM, Under the Big Tent at Bootyville
+2023-07-28, Charlotte, NC, 24 Hours of Booty Charity Ride, 8:00PM, 10:00PM, Selwyn at the Queens University Circle
+2023-04-01, Charlotte, NC, Petty Thieves Brewing, 7:00PM, 10:00PM
+2023-03-24, Charlotte, NC, Petty Thieves Brewing, 7:00PM, 9:30PM
+2022-12-17, Charlotte, NC, Blue Blaze Brewing Co, 6:00PM, 8:00PM
+2022-12-16, Charlotte, NC, Midnight Mulligan Brewing, 7:00PM, 10:00PM
+2022-11-19, Charlotte, NC, Protagonist Beer, 12:00PM, 3:00PM
+2022-11-18, Charlotte, NC, Midnight Mulligan Brewing, 7:00PM, 10:00PM
+2022-10-22, Raleigh, NC, Gizmo Brew Works, 7:00PM, 10:00PM
+2022-10-07, Charlotte, NC, Midnight Mulligan Brewing, 7:00PM, 10:00PM
+2022-11-19, Charlotte, NC, Protagonist Beer, 12:00PM, 3:00PM, Cancelled Due to Weather
+2022-09-16, Wilmington, NC, Satellite Bar & Lounge, 8:00PM, 11:00PM
+2022-09-03, Charlotte, NC, Midnight Mulligan Brewing, 7:00PM, 10:00PM
+2022-09-02, Clover, SC, The Vault Bottle Shop, 7:00PM, 9:00PM
+2022-07-29, Charlotte, NC, Midnight Mulligan Brewing, 7:00PM, 10:00PM
+2022-05-27, Charlotte, NC, Blue Blaze Brewing Co, 6:00PM, 8:00PM
+2022-03-19, Charlotte, NC, Blue Blaze Brewing Co, 6:00PM, 8:00PM
+2022-03-05, Raleigh, NC, Gizmo Brew Works, 6:00PM, 9:00PM, with The Live Oaks
+2022-01-15, Charlotte, NC, Blue Blaze Brewing Co, 6:00PM, 8:00PM
+2021-12-18, Charlotte, NC, Common Market South End, 7:00PM, 9:00PM
+2021-10-23, Charlotte, NC, Petty Thieves Brewing, 8:00PM, 10:00PM
+2019-12-13, Wilmington, NC, Satellite Bar & Lounge, 9:00PM, 12:00AM
+2019-08-17, Charlotte, NC, Ed's Tavern, 4:00PM, 7:00PM
+2019-08-16, Charlotte, NC, Noda Brewing, 7:00PM, 9:00PM
+2019-07-31, Charlotte, NC, Thomas St. Tavern, 8:30PM, 9:00PM
+2019-07-27, Charlotte, NC, Ed's Tavern, 4:00PM, 7:00PM
+2019-07-26, Charlotte, NC, Noda Brewing, 7:00PM, 9:00PM
+2019-07-06, Charlotte, NC, Ed's Tavern, 4:00PM, 7:00PM
+2019-06-22, Charlotte, NC, Ed's Tavern, 3:30PM, 6:30PM
+2019-05-24, Wilmington, NC, Satellite Bar & Lounge, 9:00PM, 12:00AM
+2019-04-06, Charlotte, NC, Ed's Tavern, 2:00PM, 5:00PM
+2019-03-22, Charlotte, NC, Hattie's Tap & Tavern, 10:00PM, 1:00AM
+2019-02-23, Charlotte, NC, Legion Brewing, 8:00PM, 11:00PM
+2019-01-25, Charlotte, NC, Noda Brewing, 7:00PM, 9:00PM
+2018-12-21, Charlotte, NC, Legion Brewing, 8:00PM, 11:00PM
+2018-12-07, Charlotte, NC, Noda Brewing, 7:00PM, 9:00PM
+2018-11-02, Wilmington, NC, Satellite Bar & Lounge, 9:00PM, 12:00AM
+2018-08-31, Charlotte, NC, Noda Brewing, 7:00PM, 9:00PM
+2018-08-04, Charlotte, NC, Ed's Tavern, 4:00PM, 7:00PM
+2018-08-03, Charlotte, NC, Noda Brewing, 7:00PM, 9:00PM
+2018-07-06, Charlotte, NC, Legion Brewing, 8:00PM, 11:00PM
+2018-05-26, Wilmington, NC, Satellite Bar & Lounge, 9:00PM, 12:00AM
+2018-05-19, Charlotte, NC, Suffolk Punch & Hyde Brewing, 4:00PM, 5:30PM
+2018-04-27, Charlotte, NC, Legion Brewing, 8:00PM, 11:00PM
+2018-03-31, Charlotte, NC, Legion Brewing, 5:00PM, 8:00PM, Friends & Beerfest
+2018-03-29, Charlotte, NC, Bond Street Wines, 7:00PM, 9:00PM
+2018-02-10, Charlotte, NC, Hattie's Tap & Tavern, 10:00PM, 1:00AM
+2018-02-09, Charlotte, NC, Legion Brewing, 8:00PM, 11:00PM
