@@ -10,7 +10,6 @@
 2022-11-18, Charlotte, NC, Midnight Mulligan Brewing, 7:00PM, 10:00PM
 2022-10-22, Raleigh, NC, Gizmo Brew Works, 7:00PM, 10:00PM
 2022-10-07, Charlotte, NC, Midnight Mulligan Brewing, 7:00PM, 10:00PM
-2022-11-19, Charlotte, NC, Protagonist Beer, 12:00PM, 3:00PM, Cancelled Due to Weather
 2022-09-16, Wilmington, NC, Satellite Bar & Lounge, 8:00PM, 11:00PM
 2022-09-03, Charlotte, NC, Midnight Mulligan Brewing, 7:00PM, 10:00PM
 2022-09-02, Clover, SC, The Vault Bottle Shop, 7:00PM, 9:00PM
@@ -48,3 +47,27 @@
 2018-03-29, Charlotte, NC, Bond Street Wines, 7:00PM, 9:00PM
 2018-02-10, Charlotte, NC, Hattie's Tap & Tavern, 10:00PM, 1:00AM
 2018-02-09, Charlotte, NC, Legion Brewing, 8:00PM, 11:00PM
+2017-12-30, Charlotte, NC, Legion Brewing, 7:00PM, 10:00PM
+2017-09-23, Charlotte, NC, Wus Cajan Seafood, 8:00PM, 11:00PM
+2017-09-22, Charlotte, NC, Noda Brewing, 6:30PM, 9:30PM
+2017-09-07, Charlotte, NC, C5 Couch Session, 2:00PM, 3:00PM, Live on CharlotteFive
+2017-07-15, Charlotte, NC, Legion Brewing, 7:00PM, 11:00PM
+2017-03-18, Charlotte, NC, Hattie's Tap & Tavern, 10:00PM, 1:00AM
+2017-03-18, Charlotte, NC, Bond Street Wines, 5:00PM, 7:00PM
+2017-02-04, Charlotte, NC, Legion Brewing, 8:00PM, 11:00PM
+2017-02-03, Charlotte, NC, Hattie's Tap & Tavern, 10:00PM, 1:00AM
+2016-12-17, Charlotte, NC, Birdsong Brewing, 6:00PM, 8:00PM
+2016-09-24, Charlotte, NC, Hattie's Tap & Tavern, 8:30PM, 11:30PM
+2016-09-24, Charlotte, NC, Noda Brewing, 1:00PM, 2:30PM
+2016-09-23, Charlotte, NC, Legion Brewing, 8:00PM, 11:00PM
+2016-08-06, Charlotte, NC, Sugar Creek Brewing, 8:00PM, 11:00PM, Guys with Ties Benefit
+2016-08-05, Raleigh, NC, Deep South, 8:00PM, 11:00PM, with The Live Oaks and Cousin Cy
+2016-07-30, Charlotte, NC, Legion Brewing, 8:00PM, 11:00PM
+2016-07-29, Charlotte, NC, Noda Brewing, 7:00PM, 9:00PM
+2016-06-04, Charlotte, NC, Birdsong Brewing, 7:00PM, 10:00PM
+2016-05-28, Charlotte, NC, Legion Brewing, 8:00PM, 11:00PM
+2016-05-10, Charlotte, NC, Snug Harbor, 9:30PM, 10:00PM
+2016-04-22, Raleigh, NC, All Saints Chapel, 9:30PM, 10:00PM, Music for Me Fine Benefit
+2016-03-23, Charlotte, NC, Legion Brewing, 7:00PM, 10:00PM
+2016-03-05, Charlotte, NC, Noda Brewing, 6:30PM, 8:30PM
+2015-12-04, Charlotte, NC, Noda Brewing, 6:30PM, 8:30PM
