@@ -17,4 +17,4 @@
     <li>Uses a script to load a text file filled with a list of shows to the page with date/city, state/location/time making adding show dates as easy as adding a new line to the file with show details.</li>
 </ul>
 
-_2023 &copy; To Better Waters_ 🦉
+_&copy; To Better Waters_ 🦉
