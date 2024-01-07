@@ -40,10 +40,28 @@ body {
 }
 
 .header-image {
+  position: relative;
   margin-top: auto;
   margin-bottom: 5vh;
   max-width: 5vh;
   height: auto;
+  padding: 1px;
+  background-color: #f4f4f4;
+  border-radius: 50px;
+}
+
+.chevron::before {
+  border-color: #f4f4f4;
+  border-style: solid;
+  border-width: 0.15em 0.15em 0 0;
+  content: '';
+  display: inline-block;
+  height: 0.45em;
+  left: 0.15em;
+  top: 0.15em;
+  vertical-align: top;
+  width: 0.45em;
+  transform: rotate(135deg);
 }
 
 .container {
